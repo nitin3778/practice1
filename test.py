@@ -1,4 +1,4 @@
-hhbjhbimport function
+import function
 
 print('This is my test file')
 
